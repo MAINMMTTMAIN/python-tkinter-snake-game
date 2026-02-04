@@ -44,9 +44,13 @@ python snake_game.py
 ```
 🎮 How to Play
 Arrow keys → Move the snake
+
 P → Pause / Resume
+
 Esc → Open pause menu or exit fullscreen
+
 F11 → Toggle fullscreen
+
 Eat the red food → Grow + Score + Speed up!
 
 🛠️ Built With
