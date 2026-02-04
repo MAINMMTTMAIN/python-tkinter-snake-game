@@ -66,7 +66,7 @@ Pygame (only for background music)
 
 python-tkinter-snake-game/
 
-├── snake_game.py          # Main game file
+├── main.py          # Main game file
 
 ├── assets/
 │   └── The best Rock in world.mp3
