@@ -25,6 +25,16 @@ A classic Snake game rebuilt with Python & Tkinter, featuring user login, leader
 - Stylish **pause menu** + Game Over screen
 - Fullscreen support (**F11** / **Esc** hotkeys)
 
+## 📸 Screenshots
+
+Here are some key screens from the game:
+
+**Login / Registration Screen** ![Login Screen](screenshots/login.png)
+
+**Welcome Menu (Light Mode)** ![Welcome Light Mode](screenshots/welcome-light.png)
+
+**Snake Color Selection (Dark Mode)** ![Color Selection Dark Mode](screenshots/color-selection-dark.png)
+
 ## 🚀 Quick Start
 
 ```bash
