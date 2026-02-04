@@ -54,7 +54,7 @@ F11 → Toggle fullscreen
 
 Eat the red food → Grow + Score + Speed up!
 
-🛠️ Built With
+## 🛠️ Built With
 
 Python 3.8+
 
@@ -62,7 +62,7 @@ Tkinter (standard GUI library)
 
 Pygame (only for background music)
 
-📂 Project Structure
+## 📂 Project Structure
 
 python-tkinter-snake-game/
 
@@ -79,7 +79,7 @@ python-tkinter-snake-game/
 
 └── .gitignore
 
-⚡ Future Improvements (Contributions welcome!)
+## ⚡ Future Improvements (Contributions welcome!)
 
 Different difficulty levels
 
@@ -91,11 +91,11 @@ Score sharing to social media
 
 Mobile version (Kivy?)
 
-❤️ Contributing
+## ❤️ Contributing
 
 Pull requests, bug reports, and feature suggestions are very welcome!
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License — see the LICENSE file for details.
 
