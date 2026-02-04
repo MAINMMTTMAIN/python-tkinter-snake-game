@@ -63,26 +63,40 @@ Tkinter (standard GUI library)
 Pygame (only for background music)
 
 📂 Project Structure
-text
+
 python-tkinter-snake-game/
+
 ├── snake_game.py          # Main game file
+
 ├── assets/
 │   └── The best Rock in world.mp3
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── LICENSE
+
 └── .gitignore
 
 ⚡ Future Improvements (Contributions welcome!)
+
 Different difficulty levels
+
 Online leaderboard (Firebase / Supabase / ...)
+
 More sound effects (eat, collision, etc.)
+
 Score sharing to social media
+
 Mobile version (Kivy?)
+
 ❤️ Contributing
+
 Pull requests, bug reports, and feature suggestions are very welcome!
 
 📄 License
+
 This project is licensed under the MIT License — see the LICENSE file for details.
 
 Made with ❤️ and Python
