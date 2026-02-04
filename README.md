@@ -69,6 +69,7 @@ python-tkinter-snake-game/
 ├── main.py          # Main game file
 
 ├── assets/
+
 │   └── The best Rock in world.mp3
 
 │   └── snakegame.ico
