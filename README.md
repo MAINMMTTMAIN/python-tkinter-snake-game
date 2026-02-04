@@ -43,6 +43,7 @@ pip install -r requirements.txt
 python snake_game.py
 ```
 🎮 How to Play
+
 Arrow keys → Move the snake
 
 P → Pause / Resume
@@ -54,9 +55,13 @@ F11 → Toggle fullscreen
 Eat the red food → Grow + Score + Speed up!
 
 🛠️ Built With
+
 Python 3.8+
+
 Tkinter (standard GUI library)
+
 Pygame (only for background music)
+
 📂 Project Structure
 text
 python-tkinter-snake-game/
@@ -67,6 +72,7 @@ python-tkinter-snake-game/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+
 ⚡ Future Improvements (Contributions welcome!)
 Different difficulty levels
 Online leaderboard (Firebase / Supabase / ...)
