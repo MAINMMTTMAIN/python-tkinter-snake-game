@@ -42,7 +42,7 @@ pip install -r requirements.txt
 # 4. Run the game
 python snake_game.py
 ```
-🎮 How to Play
+## 🎮 How to Play
 
 Arrow keys → Move the snake
 
