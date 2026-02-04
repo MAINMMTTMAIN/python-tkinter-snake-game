@@ -40,7 +40,7 @@ venv\Scripts\activate             # Windows
 pip install -r requirements.txt
 
 # 4. Run the game
-python snake_game.py
+python main.py
 ```
 ## 🎮 How to Play
 
