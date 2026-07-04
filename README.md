@@ -104,7 +104,7 @@ Score sharing to social media
 
 Mobile version (Kivy?)
 
-## ❤️ Contributing
+## 🤝 Contributing
 
 Pull requests, bug reports, and feature suggestions are very welcome!
 
